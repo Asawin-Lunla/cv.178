@@ -9,3 +9,9 @@ Application สำหรับ detect ป้ายทะเบียนรถย
 
 ```bash
 pip install -r requirements.txt
+```
+## การรัน Application
+เปิด terminal หรือ command line ไปที่ directory ที่เก็บ source code
+```bash
+streamlit run main.py
+```
