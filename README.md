@@ -4,5 +4,7 @@ Application สำหรับ detect ป้ายทะเบียนรถย
 
 ## การ Installation Library
 
+เปิด terminal หรือ command line แล้วรันคำสั่ง เป็นการติดตั้ง library สำหรับการรันครั้งแรกเท่านั้น
+
 ```bash
 pip install -r requirements.txt
